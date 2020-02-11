@@ -2,7 +2,7 @@
 print("Hello, from pyton")
 
 a = 'Hello '
-b = 'may dear friend!! ,'
+b = 'my dear friend!! ,'
 c = 'Whats tour name?'
 print(a+b+c)
 d = input()
